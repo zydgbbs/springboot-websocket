@@ -1,0 +1,9 @@
+可以随机建立websocket
+http://localhost:8000/
+
+添加websocket
+http://localhost:8000/test/socket/add/1
+http://localhost:8000/test/socket/add/2
+
+推送消息
+http://localhost:8000/test/socket/push/2?message=helloworld
